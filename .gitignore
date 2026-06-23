@@ -1,0 +1,24 @@
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Local datasets and downloaded archives
+datasets/
+*.tar.gz
+
+# Training artifacts
+checkpoints/
+logs/
+saved_models/
+runs/
+wandb/
+
+# OS and archive metadata
+.DS_Store
+__MACOSX/
+
+# Assignment source materials kept local
+模式识别课程第三次作业-20260613/
+
+# External repositories cloned for comparison
+usb_experiment/Semi-supervised-learning/
